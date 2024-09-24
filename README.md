@@ -28,6 +28,6 @@ Choosing NexGen Designs means you're partnering with a team that is passionate a
 
 ### Join Our Community
 
-We invite you to connect with fellow developers and stay updated on our latest offerings by joining our Discord server! [Join NexGen Designs on Discord](YOUR_DISCORD_INVITE_LINK_HERE).
+We invite you to connect with fellow developers and stay updated on our latest offerings by joining our Discord server! [Join NexGen Designs on Discord](https://discord.gg/h5AtFwu6wT).
 
 Feel free to explore our repositories, contribute to our projects, and be a part of shaping the future of Roblox gaming with NexGen Designs!
