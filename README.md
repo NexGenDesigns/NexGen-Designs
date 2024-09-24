@@ -16,9 +16,8 @@ At **NexGen Designs**, we are dedicated to providing innovative scripts and mode
 
 We’re excited to announce the following models added yesterday:
 
-- **Model Name 1**: A brief description of what this model does or its features.
-- **Model Name 2**: A brief description of what this model does or its features.
-- **Model Name 3**: A brief description of what this model does or its features.
+- **NexGen | Car Spawner**: Spawns in cars when interacted with.
+- **NexGen | Wood and Steel shelf**: Holds stuff such as decorations.
 
 *(Feel free to replace the placeholder text with actual model names and descriptions.)*
 
