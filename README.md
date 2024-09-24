@@ -19,8 +19,6 @@ We’re excited to announce the following models added yesterday:
 - **NexGen | Car Spawner**: Spawns in cars when interacted with.
 - **NexGen | Wood and Steel shelf**: Holds stuff such as decorations.
 
-*(Feel free to replace the placeholder text with actual model names and descriptions.)*
-
 ### Why Choose Us?
 
 Choosing NexGen Designs means you're partnering with a team that is passionate about pushing the boundaries of creativity and technology in game development. We cater to both novice and experienced developers, providing resources designed to help you succeed.
