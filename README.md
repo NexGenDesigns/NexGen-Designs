@@ -1,7 +1,3 @@
-Here’s an updated "Newly Added" page for GitHub, including a section for the models added yesterday:
-
----
-
 # Newly Added to NexGen Designs
 
 ## Welcome to NexGen Designs!
@@ -35,7 +31,3 @@ Choosing NexGen Designs means you're partnering with a team that is passionate a
 We invite you to connect with fellow developers and stay updated on our latest offerings by joining our Discord server! [Join NexGen Designs on Discord](YOUR_DISCORD_INVITE_LINK_HERE).
 
 Feel free to explore our repositories, contribute to our projects, and be a part of shaping the future of Roblox gaming with NexGen Designs!
-
----
-
-Make sure to replace `YOUR_DISCORD_INVITE_LINK_HERE` with your actual Discord invite link and fill in the model names and descriptions. Let me know if you need any further adjustments!
